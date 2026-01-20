@@ -8,3 +8,4 @@ This project analyzes breast cancer RNA sequencing data to:
 Data source: TCGA Breast Cancer (BRCA)
 Analysis environment: R
 
+# brca-pathway-sirna
